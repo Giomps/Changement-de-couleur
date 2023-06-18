@@ -1,0 +1,33 @@
+section {
+  display: block;
+  text-align: center;
+}
+section div {
+  max-width: 550px;
+  margin: 33.3vh auto;
+}
+section div h1 {
+  text-align: center;
+  margin: 33.3vh auto;
+  color: #fff;
+  font-size: 2rem;
+  background: black;
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px;
+  font-family: sans-serif;
+}
+section div .color-h1 {
+  color: hsl(205, 78%, 60%);
+}
+section div button {
+  border-radius: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=color.css.map */
